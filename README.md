@@ -16,7 +16,7 @@ I'm a software engineer who thrives on solving complex problems and building sca
 
 ## 🌱 I’m currently learning
 - Advanced software architecture patterns for high-scalability environments.
-- Cloud-native technologies to enhance system resilience and agility.
+- improving my grasp on NestJs.
 
 ## 📫 How to reach me
 - Let's connect! [LinkedIn](https://www.linkedin.com/in/sushil-sarwade1986/)
